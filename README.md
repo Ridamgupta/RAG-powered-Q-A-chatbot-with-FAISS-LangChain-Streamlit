@@ -76,7 +76,6 @@ Q&A Bot/
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/Ridamgupta/RAG-powered-Q-A-chatbot-with-FAISS-LangChain-Streamlit
-cd AI-QA-Bot-RAG
 ```
 
 ### 2. Install dependencies
